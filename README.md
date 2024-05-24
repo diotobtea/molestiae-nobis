@@ -1,3 +1,27 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+<br>
+<p align=center>
+ <img src=https://github.com/diotobtea/molestiae-nobis/assets/35027979/2aa06df7-9acf-46fb-9cbc-3d218dee43ac alt="ElysiaJS logo with word ElysiaJS on the left" width=480 />
+</p>
 
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+<p align=center>Ergonomic Framework for Humans</p>
+
+<p align=center>
+    <a href=https://@diotobtea/molestiae-nobisjs.com>Documentation</a> | <a href=https://discord.gg/eaFJ2KDJck>Discord</a> | <a href=https://github.com/sponsors/SaltyAom>Sponsors</a>
+</p>
+
+TypeScript framework supercharged by Bun with End-to-End Type Safety, unified type system, and outstanding developer experience
+
+```bash
+bun create @diotobtea/molestiae-nobis app
+```
+
+![Elysia feature sheet including 18x faster than Express based on Techempower benchmark, Frontend RPC Connector, Advance TypeScript type, unified type single source of truth of type TypeScript runtime and documentation all at once, Made of Productivity focus on developer experience, powered by Bun, WinterCG Compliance, Fully type safe GraphQL (same author with GraphQL Mobius), documentation in one line, End-to-end type safety move fast and break nothing like tRPC, strong ecosystem most popular Bun native Web Framework](https://github.com/diotobtea/molestiae-nobis/assets/35027979/d4b184ca-a622-434d-bb06-06c3110726af)
+
+## Documentation
+The documentation is available on [@diotobtea/molestiae-nobisjs.com](https://@diotobtea/molestiae-nobisjs.com).
+
+## Contributing
+See [Contributing Guide](CONTRIBUTING.md) and please follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## Discord
+Come join the [Discord community channel~](https://discord.gg/eaFJ2KDJck)
